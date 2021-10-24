@@ -50,12 +50,8 @@ form {
 }
 .current-weather {
   margin-top: 20px;
-  box-sizing: border-box;
 }
-.col-6 {
-  flex: 0 0 50%;
-  max-width: 50%;
-}
+
 h1 {
   font-weight: 700;
   font-size: 38px;
@@ -68,6 +64,7 @@ ul {
   padding: 0;
 }
 li {
+  text-transform: capitalize;
   font-weight: 500;
   margin-bottom: 5px;
   color: rgba(39, 33, 66, 0.4);
