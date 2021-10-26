@@ -155,3 +155,10 @@ a {
 footer a {
   color: #885df1;
 }
+.current .active {
+  color: #212121;
+  cursor: default;
+}
+.current .active:hover {
+  text-decoration: none;
+}
