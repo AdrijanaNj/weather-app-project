@@ -115,11 +115,7 @@ li {
   border-bottom: 1px solid #f9f7fe;
   padding-bottom: 50px;
 }
-.col {
-  flex-grow: 1;
-  max-width: 100%;
-  flex-basis: 0;
-}
+
 .forecast-day {
   font-size: 16px;
   line-height: 20px;
