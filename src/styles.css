@@ -21,8 +21,8 @@ form {
   margin-left: -15px;
   display: flex;
 }
-.col-9 {
-  flex: 0 0 75%;
+.col-8 {
+  flex: 0 0 60%;
   max-width: 75%;
 }
 .search-input {
@@ -47,6 +47,12 @@ form {
   border: none;
   height: 50px;
   cursor: pointer;
+}
+.weather-app .btn-outline-secondary {
+  background: #fff;
+}
+.current-location {
+  color: #ff0000;
 }
 .current-weather {
   margin-top: 20px;
